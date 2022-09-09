@@ -1,6 +1,6 @@
 # top3Tech - Tech Recommendation App
 
-A react app that recommends the bes three tech products from four categories.
+A react app that recommends the best three tech products from four categories.
 
 ### Categories Available
 
