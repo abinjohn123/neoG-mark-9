@@ -16,7 +16,6 @@ A react app that recommends the best three tech products from four categories.
 3. JavaScript
 4. React
 
-## Additional Resources
+## Additional Resource
 
-* [Emojipedia](https://emojipedia.org/) - Emoji explanations
 * [CodeSandbox](https://codesandbox.io/) - Online IDE
